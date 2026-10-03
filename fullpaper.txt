@@ -1,5 +1,75 @@
 
 
+Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models, Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong He, Donghao Luo, Zhenye Gan, Junwei Zhu, Yunhang Shen, Chaoyou Fu, Chengjie Wang, Xiaobin Hu, Shuicheng Yan, International Conference on Learning Representations (ICLR), 2026.
+
+Robust Pseudo-Labeling via Decoupled Class-Aware Filtering and Dynamic Category Correction, Jianghang Lin, Yilin Lu, Chaoyang Zhu, Yunhang Shen, Shengchuan Zhang, Liujuan Cao*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026.
+
+Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding, Chaoyou Fu, Haozhi Yuan, Yuhao Dong, Yi-Fan Zhang, Yunhang Shen, Xiaoxing Hu, Xueying Li, Jinsen Su, Chengwu Long, Xiaoyao Xie, Yongkang Xie, Xiawu Zheng, Xue Yang, Haoyu Cao, Yunsheng Wu, Ziwei Liu, Xing Sun, Caifeng Shan, Ran He, arXiv preprint arXiv:2604.05015, 2026.
+
+Youtu-Parsing-Omni: One Encoder, One Schema, Every Modality, Youtu-Parsing-Omni Team (Yunhang Shen, leading core contributor), Technical report, 2026.
+
+VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model, Zuwei Long, Yunhang Shen (co-first author), Chaoyou Fu, Heting Gao, Lijiang Li, Peixian Chen, Mengdan Zhang, Hang Shao, Jian Li, Jinlong Peng, Haoyu Cao, Ke Li, Rongrong Ji, Xing Sun, Advances in Neural Information Processing Systems (NeurIPS), 2025.
+
+Probability-Density-Aware Semi-Supervised Learning, Shuyang Liu, Ruiqiu Zheng, Yunhang Shen*, Zhou Yu, Ke Li, Xing Sun, Shaohui Lin, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction, Chaoyou Fu, Haojia Lin, Xiong Wang, Yi-Fan Zhang, Yunhang Shen, Xiaoyu Liu, Haoyu Cao, Zuwei Long, Heting Gao, Ke Li, Long Ma, Xiawu Zheng, Rongrong Ji, Xing Sun, Caifeng Shan, Ran He, Advances in Neural Information Processing Systems (NeurIPS), 2025.
+
+Freeze-Omni: A Smart and Low Latency Speech-to-Speech Dialogue Model with Frozen LLM, Xiong Wang, Yangze Li, Chaoyou Fu, Yunhang Shen, Lei Xie, Ke Li, Xing Sun, Long Ma*, International Conference on Machine Learning (ICML), 2025.
+
+FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression, Bo Tong, Bokai Lai, Yiyi Zhou, Gen Luo, Yunhang Shen, Ke Li, Xiaoshuai Sun, Rongrong Ji, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-Language Context Sparsification, Wenxuan Huang, Zijie Zhai, Yunhang Shen, Shaosheng Cao, Fei Zhao, Xiangfeng Xu, Zheyu Ye, Shaohui Lin*, International Conference on Learning Representations (ICLR), 2025.
+
+MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models, Chaoyou Fu, Peixian Chen, Yunhang Shen, Yulei Qin, Mengdan Zhang, Xu Lin, Jinrui Yang, Xiawu Zheng, Ke Li, Xing Sun, Yunsheng Wu, Rongrong Ji, Advances in Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track, 2025.
+
+Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis, Chaoyou Fu, Yuhan Dai, Yongdong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang, Peixian Chen, Yanwei Li, Shaohui Lin, Sirui Zhao, Ke Li, Tong Xu, Xiawu Zheng, Enhong Chen, Caifeng Shan, Ran He, Xing Sun, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+Fusion-Mamba for Cross-Modality Object Detection, Wenhao Dong, Haodong Zhu, Shaohui Lin, Xiaoyan Luo, Yunhang Shen, Xuhui Liu, Juan Zhang, Guodong Guo, Baochang Zhang, IEEE Transactions on Multimedia (TMM), 2025.
+
+Weakly Supervised Semantic Segmentation via Progressive Confidence Region Expansion, Xiangfeng Xu, Pinyi Zhang, Wenxuan Huang, Yunhang Shen, Haosheng Chen, Jingzhong Lin, Wei Li, Gaoqi He, Jiao Xie, Shaohui Lin*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+CLIP-Driven Transformer for Weakly Supervised Object Localization, Zhiwei Chen, Yunhang Shen, Liujuan Cao*, Shengchuan Zhang, Rongrong Ji, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
+
+Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration, Yunshuai Zhou, Junbo Qiao, Jincheng Liao, Wei Li, Simiao Li, Jiao Xie, Yunhang Shen, Jie Hu, Shaohui Lin*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+BUFF: Bayesian Uncertainty Guided Diffusion Probabilistic Model for Single Image Super-Resolution, Zihao He, Shengchuan Zhang, Runze Hu, Yunhang Shen, Yan Zhang*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy, Yunhang Shen, Chaoyou Fu, Shaoqi Dong, Xiong Wang, Yi-Fan Zhang, Peixian Chen, Mengdan Zhang, Haoyu Cao, Ke Li, Xiawu Zheng, Yan Zhang, Yiyi Zhou, Ran He, Caifeng Shan, Rongrong Ji, Xing Sun, arXiv preprint arXiv:2502.05177, 2025.
+
+LUCY: Linguistic Understanding and Control Yielding Early Stage of Her, Heting Gao, Hang Shao, Xiong Wang, Chaofan Qiu, Yunhang Shen, Siqi Cai, Yuchen Shi, Zihan Xu, Zuwei Long, Yike Zhang, Shaoqi Dong, Chaoyou Fu, Ke Li, Long Ma, Xing Sun, arXiv preprint arXiv:2501.16327, 2025.
+
+Aligning and Prompting Everything All at Once for Universal Visual Perception, Yunhang Shen, Chaoyou Fu, Peixian Chen, Mengdan Zhang, Ke Li, Xing Sun, Yunsheng Wu, Shaohui Lin, Rongrong Ji, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+
+Woodpecker: Hallucination Correction for Multimodal Large Language Models, Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, Dianbo Sui, Yunhang Shen, Ke Li, Xing Sun, Enhong Chen, Science China Information Sciences, 2024.
+
+Cantor: Inspiring Multimodal Chain-of-Thought of MLLM, Timin Gao, Peixian Chen, Mengdan Zhang, Chaoyou Fu, Yunhang Shen, Yan Zhang, Shengchuan Zhang, Xiawu Zheng, Xing Sun, Liujuan Cao, Rongrong Ji, ACM International Conference on Multimedia (ACM MM), 2024.
+
+Solving the Catastrophic Forgetting Problem in Generalized Category Discovery, Xinzi Cao, Xiawu Zheng, Guanhong Wang, Weijiang Yu, Yunhang Shen, Ke Li, Yutong Lu*, Yonghong Tian*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+
+Class-Imbalanced Semi-Supervised Learning for Large-Scale Point Cloud Semantic Segmentation via Decoupling Optimization, Mengtian Li, Shaohui Lin*, Zihan Wang, Yunhang Shen, Baochang Zhang, Lizhuang Ma, Pattern Recognition (PR), 2024.
+
+Adaptive Feature Selection for No-Reference Image Quality Assessment by Mitigating Semantic Noise Sensitivity, Xudong Li, Timin Gao, Runze Hu, Yan Zhang*, Shengchuan Zhang, Xiawu Zheng, Jingyuan Zheng, Yunhang Shen, Ke Li, Yutao Liu, Pingyang Dai, Rongrong Ji, International Conference on Machine Learning (ICML), 2024.
+
+A General and Efficient Training for Transformer via Token Expansion, Wenxuan Huang, Yunhang Shen, Jiao Xie, Baochang Zhang, Gaoqi He, Ke Li, Xing Sun, Shaohui Lin*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+
+Weakly Supervised Open-Vocabulary Object Detection, Jianghang Lin, Yunhang Shen, Bingquan Wang, Shaohui Lin, Ke Li, Liujuan Cao*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.
+
+SPD-DDPM: Denoising Diffusion Probabilistic Models in the Symmetric Positive Definite Space, Yunchen Li, Zhou Yu, Gaoqi He, Yunhang Shen, Ke Li, Xing Sun, Shaohui Lin*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.
+
+Semi-Supervised Blind Image Quality Assessment through Knowledge Distillation and Incremental Learning, Wensheng Pan, Timin Gao, Yan Zhang*, Xiawu Zheng, Yunhang Shen, Ke Li, Runze Hu, Yutao Liu, Pingyang Dai, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.
+
+CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes, Yulei Qin, Xingyu Chen, Yunhang Shen, Chaoyou Fu, Yun Gu, Ke Li, Xing Sun, Rongrong Ji, Advances in Neural Information Processing Systems (NeurIPS), 2024.
+
+Adaptive Zone Learning for Weakly Supervised Object Localization, Zhiwei Chen, Siwei Wang, Liujuan Cao*, Yunhang Shen, Rongrong Ji, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024.
+
+T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs, Shukang Yin, Chaoyou Fu, Sirui Zhao, Yunhang Shen, Chunjiang Ge, Yan Yang, Zuwei Long, Yuhan Dai, Tong Xu, Xing Sun, Ran He, Caifeng Shan, Enhong Chen, arXiv preprint arXiv:2411.19951, 2024.
+
+VITA: Towards Open-Source Interactive Omni Multimodal LLM, Chaoyou Fu, Haojia Lin, Zuwei Long, Yunhang Shen, Meng Zhao, Yifan Zhang, Shaoqi Dong, Xiong Wang, Di Yin, Long Ma, Xiawu Zheng, Ran He, Rongrong Ji, Yunsheng Wu, Caifeng Shan, Xing Sun, arXiv preprint arXiv:2408.05211, 2024.
+
+Category-Aware Allocation Transformer for Weakly Supervised Object Localization, Zhiwei Chen, Jinren Ding, Liujuan Cao, Yunhang Shen, Shengchuan Zhang, Guannan Jiang, Rongrong Ji, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
+
+LocLoc: Low-Level Cues and Local-Area Guides for Weakly Supervised Object Localization, Xinzi Cao, Xiawu Zheng, Yunhang Shen, Ke Li, Jie Chen, Yutong Lu*, Yonghong Tian*, ACM International Conference on Multimedia (ACM MM), 2023.
+
 Adaptive Hierarchy-Branch Fusion for Online Knowledge Distillation, Linrui Gong, Shaohui Lin, Baochang Zhang, Yunhang Shen, Ke Li, Ruizhi Qiao, Bo Ren, Muqing Li, Zhou Yu, Lizhuang Ma, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
 CF-ViT: A General Coarse-to-Fine Method for Vision Transformer, Mengzhao Chen, Mingbao Lin, Ke Li, Yunhang Shen, Yongjian Wu, Fei Chao, Rongrong Ji*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.
