@@ -1,0 +1,73 @@
+
+
+Adaptive Hierarchy-Branch Fusion for Online Knowledge Distillation, Linrui Gong, Shaohui Lin, Baochang Zhang, Yunhang Shen, Ke Li, Ruizhi Qiao, Bo Ren, Muqing Li, Zhou Yu, Lizhuang Ma, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
+CF-ViT: A General Coarse-to-Fine Method for Vision Transformer, Mengzhao Chen, Mingbao Lin, Ke Li, Yunhang Shen, Yongjian Wu, Fei Chao, Rongrong Ji*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
+FoPro: Few-Shot Guided Robust Webly-Supervised Prototypical Learning, Yulei Qin, Xingyu Chen, Chao Chen, Yunhang Shen, Bo Ren, Yun Gu, Jie Yang, Chunhua Shen, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
+ECO-TR: Efficient Correspondences Finding via Coarse-to-Fine Refinement, Dongli Tan, Jiang-Jiang Liu, Xingyu Chen, Chao Chen, Ruixin Zhang, Yunhang Shen, Shouhong Ding, Rongrong Ji*, European Conference on Computer Vision (ECCV), 2022.
+
+Efficient Decoder-free Object Detection with Transformers, Peixian Chen, Mengdan Zhang, Yunhang Shen, Kekai Sheng, Yuting Gao, Xing Sun, Ke Li, Chunhua Shen, European Conference on Computer Vision (ECCV), 2022.
+
+Fine-grained Data Distribution Alignment for Post-Training Quantization, Yunshan Zhong, Mingbao Lin, Mengzhao Chen, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji*, European Conference on Computer Vision (ECCV), 2022.
+
+PixelFolder: An Efficient Progressive Pixel Synthesis Network for Image Generation, Jing He, Yiyi Zhou*, Qi Zhang, Yunhang Shen, Xiaoshuai Sun, Chao Chen, Rongrong Ji, European Conference on Computer Vision (ECCV), 2022.
+
+Learning Dynamic Prior Knowledge for Text-to-Face Pixel Synthesis, Jun Peng, Xiaoxiong Du, Yiyi Zhou, Jing He, Yunhang Shen, Xiaoshuai Sun, Rongrong Ji*, ACM International Conference on Multimedia (ACMMM), 2022.
+
+LAB-Net: LAB Color-Space Oriented Lightweight Network for Shadow Removal, Hong Yang, Gongrui Nan, Mingbao Lin, Fei Chao, Yunhang Shen, Ke Li, Rongrong Ji*, arXiv preprint arXiv:2208.13039, 2022.
+
+LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, Zhiwei Chen, ChanganWang, YabiaoWang, Guannan Jiang, Yunhang Shen, Ying Tai, ChengjieWang, Wei Zhang, Liujuan Cao*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2022.
+
+Open Vocabulary Object Detection with Proposal Mining and Prediction Equalization, Peixian Chen, Kekai Sheng, Mengdan Zhang*, Yunhang Shen, Ke Li, Chunhua Shen, arXiv preprint arXiv:2206.11134, 2022.
+
+MISSU: 3D Medical Image Segmentation via Self-distilling TransUNet, Nan Wang, Shaohui Lin*, Xiaoxiao Li, Ke Li, Yunhang Shen, Yue Gao, Lizhuang Ma*, arXiv preprint arXiv:2206.00902, 2022.
+
+Super Vision Transformer, Mingbao Lin, Mengzhao Chen, Yuxin Zhang, Ke Li, Yunhang Shen, Chunhua Shen, Rongrong Ji*, arXiv preprint arXiv:2205.11397, 2022.
+
+Shadow-Aware Dynamic Convolution for Shadow Removal, Yimin Xu, Mingbao Lin, Hong Yang, Ke Li, Yunhang Shen, Fei Chao, Rongrong Ji*, arXiv preprint arXiv:2205.04908, 2022.
+
+End-to-End Zero-Shot HOI Detection via Vision and Language Knowledge Distillation, Mingrui Wu, Jiaxin Gu, Yunhang Shen, Mingbao Lin, Chao Chen, Xiaoshuai Sun, Rongrong Ji*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
+SeqTR: A Simple yet Universal Network for Visual Grounding, Chaoyang Zhu, Yiyi Zhou, Yunhang Shen, Gen Luo, Xingjia Pan, Mingbao Lin, Chao Chen, Liujuan Cao, Xiaoshuai Sun, Rongrong Ji*, European Conference on Computer Vision (ECCV), 2022.
+
+Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks, Yunshan Zhong, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji*, European Conference on Computer Vision (ECCV), 2022.
+
+Optimizing Gradient-driven Criteria in Network Sparsity: Gradient is All You Need, Yuxin Zhang, Mingbao Lin, Mengzhao Chen, Zihan Xu, Fei Chao, Yunhang Shen, Ke Li, Yongjian Wu, Rongrong Ji*, arXiv preprint arXiv:2201.12826, 2022.
+
+Mitigating the Mutual Error Amplification for Semi-Supervised Object Detection, Chengcheng Ma, Xingjia Pan, Qixiang Ye, Fan Tang, Yunhang Shen, Ke Yan, Changsheng Xu, arXiv preprint arXiv:2201.10734, 2022.
+
+HybridCR: Weakly-Supervised 3D Point Cloud Semantic Segmentation via Hybrid Contrastive Regularization, Mengtian Li, Yuan Xie, Yunhang Shen, Bo Ke, Ruizhi Qiao, Bo Ren, Shaohui Lin, Lizhuang Ma, CVPR, 2022.
+
+Active Teacher for Semi-Supervised Object Detection, Peng Mi, Jianghang Lin, Yiyi Zhou, Yunhang Shen, Gen Luo, Xiaoshuai Sun, Liujuan Cao*, Rongrong Fu, Qiang Xu, Rongrong Ji, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+
+Lottery Jackpots Exist in Pre-trained Models, Yuxin Zhang, Mingbao Lin, Fei Chao, Yan Wang, Ke Li, Yunhang Shen, Yongjian Wu, Rongrong Ji*, arXiv preprint arXiv:2104.08700, 2021.
+
+E2Net : Excitative-Expansile Learning for Weakly Supervised Object Localization, Zhiwei Chen, Liujuan Cao*, Yunhang Shen, Feihong Lian, Yongjian Wu, Rongrong Ji, ACM International Conference on Multimedia (ACMMM), 2021.
+
+Parallel Detection-and-Segmentation Learning for Weakly Supervised Instance Segmentation, Yunhang Shen, Liujuan Cao*, Zhiwei Chen, Baochang Zhang, Chi Su, Yongjian Wu, Feiyue Huang, Rongrong Ji, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
+
+Toward Joint Thing-and-Stuff Mining for Weakly Supervised Panoptic Segmentation, Yunhang Shen, Liujuan Cao*, Zhiwei Chen, Feihong Lian, Baochang Zhang, Chi Su, Yongjian Wu, Feiyue Huang, Rongrong Ji, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+
+UWSOD: Toward Fully-Supervised-Level Capacity Weakly Supervised Object Detection, Yunhang Shen, Rongrong Ji*, Zhiwei Chen, Yongjian Wu, Feiyue Huang, Conference on Neural Information Processing Systems (NeurIPS), 2020.
+
+Enabling Deep Residual Networks for Weakly Supervised Object Detection, Yunhang Shen, Rongrong Ji*, Yan Wang, Zhiwei Chen, Feng Zheng, Feiyue Huang, Yunsheng Wu, European Conference on Computer Vision (ECCV), 2020.
+
+Noise-Aware Fully Webly Supervised Object Detection, Yunhang Shen, Rongrong Ji*, Zhiwei Chen, Xiaopeng Hong, Feng Zheng, Jianzhuang Liu, Mingliang Xu, Qi Tian, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+
+Category-Aware Spatial Constraint for Weakly Supervised Detection, Yunhang Shen, Rongrong Ji*, Kuiyuan Yang, Cheng Deng, Changhu Wang, IEEE Transactions on Image Processing (TIP), 2019.
+
+A Part Power Set Model for Scale-Free Person Retrieval, Yunhang Shen, Rongrong Ji*, Xiaopeng Hong, Feng Zheng, Xiaowei Guo, Yongjian Wu, Feiyue Huang, International Joint Conference on Artificial Intelligence (IJCAI), 2019.
+
+Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation, Yunhang Shen, Rongrong Ji*, Yan Wang, Yongjian Wu, Liujuan Cao, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+
+Generative Adversarial Learning towards Fast Weakly Supervised Detection, Yunhang Shen, Rongrong Ji*, Shengchuan Zhang, Wangmeng Zuo, and Yan Wang, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+
+Weakly Supervised Object Detection via Object-Specific Pixel Gradient, Yunhang Shen, Rongrong Ji*, Changhu Wang, Xi Li, and Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2018.
+
+The Distributed System for Inverted Multi-index Visual Retrieval, Xianming Lin, Yunhang Shen, Ling Cai, Rongrong Ji*, Neurocomputing, 2016.
+
+Hacking Chinese Touclick CAPTCHA by Multi-Scale Corner Structure Model with Fast Pattern Matching, Yunhang Shen, Rongrong Ji*, Donglin Cao, Min Wang, ACM International Conference on Multimedia (ACM MM), 2014.
+
+Robotic Free Writing of Chinese Characters via Human–Robot Interactions, Fei Chao, Fuhai Chen, Yunhang Shen, Wenli He, Yan Sun, Zhengshuai Wang, Changle Zhou and Min Jiang, International journal of humanoid robotics, 2014.
