@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+# Static site: index.html and fullpaper.html are complete documents without
+# YAML front matter, so Jekyll copies them verbatim and no theme is applied.
+# `theme: jekyll-theme-cayman` was removed because it had no effect.
